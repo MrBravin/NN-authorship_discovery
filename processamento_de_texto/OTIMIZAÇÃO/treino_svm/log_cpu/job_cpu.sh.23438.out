@@ -1,0 +1,19 @@
+[INFO] Gerando df_idx (pares balanceados com split por autor)...
+[OK] df_idx salvo em: resultados_svm_cpu/df_idx_gerado.csv
+
+==== MEAN | TUNING ====
+[INFO] Amostras para tuning: 10000 (balanceado sempre que possível). CV=3
+[I 2025-09-22 15:21:35,511] Trial 0 finished with value: 0.8472181064875247 and parameters: {'relation': 'absdiff', 'kernel': 'linear', 'class_weight': 'balanced', 'C': 0.018970635134029343}. Best is trial 0 with value: 0.8472181064875247.
+[I 2025-09-22 15:21:37,326] Trial 1 finished with value: 0.6160808229596345 and parameters: {'relation': 'eucl', 'kernel': 'linear', 'class_weight': None, 'C': 0.031981275369529105}. Best is trial 0 with value: 0.8472181064875247.
+[I 2025-09-22 15:21:39,752] Trial 2 finished with value: 0.6116855049393969 and parameters: {'relation': 'eucl', 'kernel': 'linear', 'class_weight': 'balanced', 'C': 31.440318944770222}. Best is trial 0 with value: 0.8472181064875247.
+[I 2025-09-22 15:23:00,298] Trial 3 finished with value: 0.8900917084314223 and parameters: {'relation': 'v1v2', 'kernel': 'rbf', 'class_weight': None, 'C': 113.60202433850631, 'gamma': 0.0010445759561589498}. Best is trial 3 with value: 0.8900917084314223.
+[I 2025-09-22 15:23:21,647] Trial 4 finished with value: 0.8698608673069983 and parameters: {'relation': 'absdiff', 'kernel': 'rbf', 'class_weight': None, 'C': 1.7710457924801004, 'gamma': 0.00046298549726147544}. Best is trial 3 with value: 0.8900917084314223.
+[I 2025-09-22 15:23:42,722] Trial 5 finished with value: 0.8992620168064986 and parameters: {'relation': 'diff', 'kernel': 'rbf', 'class_weight': 'balanced', 'C': 2.02922028070976, 'gamma': 0.0010993821348619444}. Best is trial 5 with value: 0.8992620168064986.
+[I 2025-09-22 15:24:06,528] Trial 6 finished with value: 0.6708724198405357 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'class_weight': 'balanced', 'C': 0.43799395734471247}. Best is trial 5 with value: 0.8992620168064986.
+[I 2025-09-22 15:24:08,440] Trial 7 finished with value: 0.6338441543365776 and parameters: {'relation': 'dot', 'kernel': 'linear', 'class_weight': None, 'C': 0.023337097845099217}. Best is trial 5 with value: 0.8992620168064986.
+[I 2025-09-22 15:24:11,081] Trial 8 finished with value: 0.6175048119503571 and parameters: {'relation': 'cos', 'kernel': 'rbf', 'class_weight': 'balanced', 'C': 68.20293192879619, 'gamma': 0.0008334631958215237}. Best is trial 5 with value: 0.8992620168064986.
+[I 2025-09-22 15:24:13,738] Trial 9 finished with value: 0.6271133040063677 and parameters: {'relation': 'proj', 'kernel': 'rbf', 'class_weight': None, 'C': 1.98767161193866, 'gamma': 0.001640645193195059}. Best is trial 5 with value: 0.8992620168064986.
+[I 2025-09-22 15:24:53,224] Trial 10 finished with value: 0.8690320224694071 and parameters: {'relation': 'diff', 'kernel': 'rbf', 'class_weight': 'balanced', 'C': 7.281753352622877, 'gamma': 0.004574739075997841}. Best is trial 5 with value: 0.8992620168064986.
+[OK] Melhores hiperparâmetros (mean) salvos em: resultados_svm_cpu/mean_best_params.txt
+
+==== MEAN | TREINO FINAL ====

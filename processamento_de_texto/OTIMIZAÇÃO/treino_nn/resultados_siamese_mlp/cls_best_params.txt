@@ -1,0 +1,11 @@
+{
+  "depth": 5,
+  "width": 768,
+  "proj_dim": 256,
+  "activation": "gelu",
+  "use_layernorm": true,
+  "lr": 0.0005589796172016581,
+  "weight_decay": 1.389686304412849e-06,
+  "batch_size": 1024,
+  "temperature": 0.522586679469219
+}

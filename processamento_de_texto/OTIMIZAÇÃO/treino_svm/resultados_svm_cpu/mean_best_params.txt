@@ -1,0 +1,7 @@
+{
+  "relation": "diff",
+  "kernel": "rbf",
+  "class_weight": "balanced",
+  "C": 2.02922028070976,
+  "gamma": 0.0010993821348619444
+}

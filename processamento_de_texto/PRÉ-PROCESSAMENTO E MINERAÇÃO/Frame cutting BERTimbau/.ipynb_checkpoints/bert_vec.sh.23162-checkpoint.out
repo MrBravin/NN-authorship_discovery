@@ -1,0 +1,5 @@
+shape (mean): torch.Size([2, 768])
+shape (cls):  torch.Size([2, 768])
+cosine(mean) = 0.407
+cosine(cls)  = 0.904
+CSV salvo em df_com_embeddings.csv

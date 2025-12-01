@@ -1,0 +1,1 @@
+[I 2025-09-19 13:34:46,046] Trial 0 finished with value: 0.9368225000000001 and parameters: {'relation': 'v1v2', 'kernel': 'rbf', 'C': 1.346719252795171, 'class_weight': 'balanced', 'gamma': 0.0003363003674919014}. Best is trial 0 with value: 0.9368225000000001.

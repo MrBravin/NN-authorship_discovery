@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/pedro23013/tcc/t3/treino_rf/treino_rf.py", line 428, in <module>
+    main()
+  File "/home/pedro23013/tcc/t3/treino_rf/treino_rf.py", line 418, in main
+    rodar_pipeline_simples(df_mean, VEC_MEAN_COL, "mean")
+    ^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'rodar_pipeline_simples' is not defined

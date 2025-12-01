@@ -1,0 +1,63 @@
+[I 2025-09-19 12:09:42,192] Trial 0 finished with value: 0.682365 and parameters: {'relation': 'cos', 'kernel': 'linear', 'C': 46.823906201632, 'class_weight': None}. Best is trial 0 with value: 0.682365.
+[I 2025-09-19 12:10:22,822] Trial 1 finished with value: 0.9281759375 and parameters: {'relation': 'siamese4', 'kernel': 'linear', 'C': 385.2132173047724, 'class_weight': 'balanced'}. Best is trial 1 with value: 0.9281759375.
+[I 2025-09-19 12:11:33,532] Trial 2 finished with value: 0.50575 and parameters: {'relation': 'v1v2', 'kernel': 'rbf', 'C': 0.033620885303760256, 'class_weight': 'balanced', 'gamma': 0.21065081347508585}. Best is trial 1 with value: 0.9281759375.
+[I 2025-09-19 12:11:56,669] Trial 3 finished with value: 0.9274962500000001 and parameters: {'relation': 'absdiff', 'kernel': 'linear', 'C': 0.20134529963677614, 'class_weight': None}. Best is trial 1 with value: 0.9281759375.
+[I 2025-09-19 12:12:26,780] Trial 4 finished with value: 0.8611553125 and parameters: {'relation': 'diff', 'kernel': 'rbf', 'C': 0.01044265246151227, 'class_weight': None, 'gamma': 0.0003106901180873874}. Best is trial 1 with value: 0.9281759375.
+[I 2025-09-19 12:12:27,237] Trial 5 finished with value: 0.8859046875000001 and parameters: {'relation': 'scalars', 'kernel': 'rbf', 'C': 36.414752818961, 'class_weight': 'balanced', 'gamma': 0.04205348938218598}. Best is trial 1 with value: 0.9281759375.
+[I 2025-09-19 12:12:28,039] Trial 6 finished with value: 0.61731453125 and parameters: {'relation': 'cheb', 'kernel': 'rbf', 'C': 0.5026436165407331, 'class_weight': 'balanced', 'gamma': 0.5041152359893449}. Best is trial 1 with value: 0.9281759375.
+[I 2025-09-19 12:12:28,779] Trial 7 finished with value: 0.6794453125 and parameters: {'relation': 'dot', 'kernel': 'rbf', 'C': 0.4242231185813113, 'class_weight': None, 'gamma': 0.01860200323313272}. Best is trial 1 with value: 0.9281759375.
+[I 2025-09-19 12:12:29,529] Trial 8 finished with value: 0.62387265625 and parameters: {'relation': 'cheb', 'kernel': 'rbf', 'C': 10.409984970818815, 'class_weight': None, 'gamma': 0.008113452700805417}. Best is trial 1 with value: 0.9281759375.
+[I 2025-09-19 12:12:30,231] Trial 9 finished with value: 0.62477953125 and parameters: {'relation': 'cheb', 'kernel': 'rbf', 'C': 0.1878275062262561, 'class_weight': None, 'gamma': 0.009897242732185856}. Best is trial 1 with value: 0.9281759375.
+[I 2025-09-19 12:13:10,223] Trial 10 finished with value: 0.9281759375 and parameters: {'relation': 'siamese4', 'kernel': 'linear', 'C': 962.3248308239383, 'class_weight': 'balanced'}. Best is trial 1 with value: 0.9281759375.
+[I 2025-09-19 12:13:49,996] Trial 11 finished with value: 0.9281759375 and parameters: {'relation': 'siamese4', 'kernel': 'linear', 'C': 952.3868834369825, 'class_weight': 'balanced'}. Best is trial 1 with value: 0.9281759375.
+[I 2025-09-19 12:14:29,541] Trial 12 finished with value: 0.9281759375 and parameters: {'relation': 'siamese4', 'kernel': 'linear', 'C': 774.6292839426435, 'class_weight': 'balanced'}. Best is trial 1 with value: 0.9281759375.
+[I 2025-09-19 12:15:09,262] Trial 13 finished with value: 0.9281759375 and parameters: {'relation': 'siamese4', 'kernel': 'linear', 'C': 186.4367169464109, 'class_weight': 'balanced'}. Best is trial 1 with value: 0.9281759375.
+[I 2025-09-19 12:15:19,764] Trial 14 finished with value: 0.682365 and parameters: {'relation': 'eucl', 'kernel': 'linear', 'C': 210.4833839619952, 'class_weight': 'balanced'}. Best is trial 1 with value: 0.9281759375.
+[I 2025-09-19 12:20:20,995] Trial 15 finished with value: 0.9285228125 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'C': 4.31380174230275, 'class_weight': 'balanced'}. Best is trial 15 with value: 0.9285228125.
+[I 2025-09-19 12:22:30,412] Trial 16 finished with value: 0.9285846875000001 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'C': 2.198638476808522, 'class_weight': 'balanced'}. Best is trial 16 with value: 0.9285846875000001.
+[I 2025-09-19 12:25:59,123] Trial 17 finished with value: 0.928546875 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'C': 3.6869719336937177, 'class_weight': 'balanced'}. Best is trial 16 with value: 0.9285846875000001.
+[I 2025-09-19 12:27:20,291] Trial 18 finished with value: 0.9290243749999998 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'C': 1.4333261161994009, 'class_weight': 'balanced'}. Best is trial 18 with value: 0.9290243749999998.
+[I 2025-09-19 12:28:20,168] Trial 19 finished with value: 0.9294912500000001 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'C': 1.0153189186415241, 'class_weight': 'balanced'}. Best is trial 19 with value: 0.9294912500000001.
+[I 2025-09-19 12:28:21,873] Trial 20 finished with value: 0.682365 and parameters: {'relation': 'proj', 'kernel': 'linear', 'C': 1.736030172086885, 'class_weight': 'balanced'}. Best is trial 19 with value: 0.9294912500000001.
+[I 2025-09-19 12:29:36,098] Trial 21 finished with value: 0.9292612499999999 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'C': 1.2496102129398003, 'class_weight': 'balanced'}. Best is trial 19 with value: 0.9294912500000001.
+[I 2025-09-19 12:29:36,638] Trial 22 finished with value: 0.77112828125 and parameters: {'relation': 'manh', 'kernel': 'linear', 'C': 0.9374675342110519, 'class_weight': 'balanced'}. Best is trial 19 with value: 0.9294912500000001.
+[I 2025-09-19 12:40:07,640] Trial 23 finished with value: 0.9285234375 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'C': 9.397286462866475, 'class_weight': 'balanced'}. Best is trial 19 with value: 0.9294912500000001.
+[I 2025-09-19 12:40:23,832] Trial 24 finished with value: 0.9330225000000001 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'C': 0.12440361948752052, 'class_weight': 'balanced'}. Best is trial 24 with value: 0.9330225000000001.
+[I 2025-09-19 12:40:37,024] Trial 25 finished with value: 0.935365625 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'C': 0.04460380478044604, 'class_weight': 'balanced'}. Best is trial 25 with value: 0.935365625.
+[I 2025-09-19 12:40:49,499] Trial 26 finished with value: 0.93533125 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'C': 0.045014882132542566, 'class_weight': 'balanced'}. Best is trial 25 with value: 0.935365625.
+[I 2025-09-19 12:41:53,960] Trial 27 finished with value: 0.7110990625 and parameters: {'relation': 'v1v2', 'kernel': 'linear', 'C': 0.04723820431113983, 'class_weight': 'balanced'}. Best is trial 25 with value: 0.935365625.
+[I 2025-09-19 12:42:23,359] Trial 28 finished with value: 0.7177175 and parameters: {'relation': 'diff', 'kernel': 'linear', 'C': 0.05666481393410163, 'class_weight': 'balanced'}. Best is trial 25 with value: 0.935365625.
+[I 2025-09-19 12:42:23,949] Trial 29 finished with value: 0.682365 and parameters: {'relation': 'cos', 'kernel': 'linear', 'C': 0.010104707273307027, 'class_weight': None}. Best is trial 25 with value: 0.935365625.
+[I 2025-09-19 12:42:24,298] Trial 30 finished with value: 0.8753049999999998 and parameters: {'relation': 'scalars', 'kernel': 'linear', 'C': 0.10361620382570849, 'class_weight': 'balanced'}. Best is trial 25 with value: 0.935365625.
+[I 2025-09-19 12:42:34,701] Trial 31 finished with value: 0.938249375 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'C': 0.017116081078599004, 'class_weight': 'balanced'}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:42:45,356] Trial 32 finished with value: 0.9379453124999999 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'C': 0.018697219768665306, 'class_weight': 'balanced'}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:42:56,134] Trial 33 finished with value: 0.9373028125000001 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'C': 0.022728319343891204, 'class_weight': 'balanced'}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:43:06,786] Trial 34 finished with value: 0.9334309375000001 and parameters: {'relation': 'absdiff', 'kernel': 'linear', 'C': 0.02109410798595163, 'class_weight': 'balanced'}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:43:07,315] Trial 35 finished with value: 0.77112828125 and parameters: {'relation': 'manh', 'kernel': 'linear', 'C': 0.022152203467026284, 'class_weight': 'balanced'}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:43:07,906] Trial 36 finished with value: 0.682365 and parameters: {'relation': 'dot', 'kernel': 'linear', 'C': 0.018983692730440732, 'class_weight': None}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:43:08,466] Trial 37 finished with value: 0.682365 and parameters: {'relation': 'proj', 'kernel': 'linear', 'C': 0.08349519068873874, 'class_weight': 'balanced'}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:43:09,208] Trial 38 finished with value: 0.682365 and parameters: {'relation': 'eucl', 'kernel': 'rbf', 'C': 0.2704237201281177, 'class_weight': 'balanced', 'gamma': 0.00015142267718719802}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:43:31,479] Trial 39 finished with value: 0.9082231249999999 and parameters: {'relation': 'hadamard', 'kernel': 'rbf', 'C': 0.023916474865265876, 'class_weight': None, 'gamma': 0.0006067258531514324}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:43:32,059] Trial 40 finished with value: 0.682365 and parameters: {'relation': 'cos', 'kernel': 'linear', 'C': 0.013316977127595478, 'class_weight': 'balanced'}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:43:43,757] Trial 41 finished with value: 0.9353528125 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'C': 0.04456436571915458, 'class_weight': 'balanced'}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:43:56,941] Trial 42 finished with value: 0.9341934375000001 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'C': 0.07110623112624691, 'class_weight': 'balanced'}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:45:01,825] Trial 43 finished with value: 0.7118665625 and parameters: {'relation': 'v1v2', 'kernel': 'linear', 'C': 0.04031084435178126, 'class_weight': 'balanced'}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:45:21,184] Trial 44 finished with value: 0.9321784375 and parameters: {'relation': 'hadamard', 'kernel': 'linear', 'C': 0.1862648042683638, 'class_weight': 'balanced'}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:45:21,977] Trial 45 finished with value: 0.705423125 and parameters: {'relation': 'scalars', 'kernel': 'rbf', 'C': 0.030208113715079882, 'class_weight': 'balanced', 'gamma': 0.0014446659657404931}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:45:31,783] Trial 46 finished with value: 0.9364765624999999 and parameters: {'relation': 'absdiff', 'kernel': 'linear', 'C': 0.012450198876648354, 'class_weight': None}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:45:41,587] Trial 47 finished with value: 0.935696875 and parameters: {'relation': 'absdiff', 'kernel': 'linear', 'C': 0.01435878720001892, 'class_weight': None}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:46:05,271] Trial 48 finished with value: 0.8982743750000001 and parameters: {'relation': 'absdiff', 'kernel': 'rbf', 'C': 0.013259511787437459, 'class_weight': None, 'gamma': 0.0027349076599167167}. Best is trial 31 with value: 0.938249375.
+[I 2025-09-19 12:46:15,898] Trial 49 finished with value: 0.9351053124999998 and parameters: {'relation': 'absdiff', 'kernel': 'linear', 'C': 0.016042059589077954, 'class_weight': None}. Best is trial 31 with value: 0.938249375.
+
+=== MELHORES HIPERPARÂMETROS ===
+relation: hadamard
+kernel: linear
+C: 0.017116081078599004
+class_weight: balanced
+
+=== MÉTRICAS NO TEST ===
+accuracy: 0.8675
+f1: 0.8673
+roc_auc: 0.9388
+ap: 0.9395
+[I 2025-09-19 12:46:24,015] Trial 0 finished with value: 0.8497640625 and parameters: {'relation': 'manh', 'kernel': 'rbf', 'C': 0.49174766783068724, 'class_weight': 'balanced', 'gamma': 0.02843795751594517}. Best is trial 0 with value: 0.8497640625.

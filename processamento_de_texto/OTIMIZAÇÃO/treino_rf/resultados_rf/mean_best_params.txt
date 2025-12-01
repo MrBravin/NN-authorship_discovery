@@ -1,0 +1,9 @@
+{
+  "relation": "diff",
+  "n_estimators": 500,
+  "max_depth": 31,
+  "max_features": "sqrt",
+  "min_samples_split": 4,
+  "min_samples_leaf": 5,
+  "class_weight": "balanced"
+}
