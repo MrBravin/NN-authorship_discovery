@@ -2,12 +2,13 @@
 
 Repositório de códigos e experimentos em redes neurais para **distinção de autoria** em manuscritos digitalizados e textos digitados de acervos brasileiros.
 
+Este projeto reúne os scripts e notebooks usados em um Trabalho de Conclusão de Curso da Ilum – Escola de Ciência, que investiga métodos computacionais para comparação de autoria:
+
+> **ENTRE A ESCRITA E O ESCRITO: ANÁLISE DE AUTORIA VIA PROCESSAMENTO DE IMAGEM E LINGUAGEM NATURAL**  
+> Ilum – Escola de Ciência / CNPEM, 2025.
 ---
 
-## Visão geral
-
-Este projeto reúne os scripts e notebooks usados em um Trabalho de Conclusão de Curso da Ilum – Escola de Ciência, que investiga métodos computacionais para comparação de autoria combinando:
-
+ Ele combina:
 - **Processamento de Imagem (PdI)** – redes neurais siamesas convolucionais aplicadas a linhas de manuscritos digitalizados;
 - **Processamento de Linguagem Natural (PLN)** – modelos baseados em BERTimbau e classificadores de machine learning para textos acadêmicos em português.
 
@@ -36,7 +37,7 @@ A estrutura geral do projeto é dividida em dois eixos principais:
   - treinamento e comparação de modelos (SVM, Random Forest, redes siamesas, etc.);
   - rotinas de busca de hiperparâmetros e de combinação de features.
 
-Além desses diretórios principais, o repositório pode conter:
+Além desses diretórios principais, o repositório contem:
 
 - pastas de **experimentos/resultados**, com gráficos, tabelas e logs de treino;
 - arquivos de **modelos salvos** (`.pkl`, checkpoints, etc.);
@@ -69,10 +70,27 @@ Por questões de **tamanho** e/ou **direitos autorais**, alguns conjuntos de dad
 Recomenda-se:
 
 - Python 3.10 ou superior;
-- criação de um ambiente virtual dedicado (`venv`, `conda`, etc.);
-- GPU opcional, mas recomendada para acelerar o treino das redes siamesas e modelos baseados em BERT.
+- Abra e inicialise cada arquivo com calma resolvendo as dependencias de bibliotecas individualemente. Devido a grande variedade de arquivos ".ipynb", talvez mais de um ambiente virtual seja necessário. 
 
-Instale as dependências a partir do arquivo de requisitos do projeto (se disponível), por exemplo:
+---
 
-```bash
-pip install -r requirements.txt
+## Criadores:
+As funções utilizadas para qualquer manipulação de dados dentro desse diretório assim como os métodos propostos foram criadas pelos estudantes: 
+  - Pedro Henrique Kramer Canhim, email: pedro23013@ilum.cnpem.br.  
+    Aluno do 6° Semestre do Curso de Bacharel em Ciência e Tecnologia, Ilum - Escola de Ciências.
+  
+  - João Pedro da Silva Mariano, email: joao23009@ilum.cnpem.br.  
+    Aluna do 6° Semestre do Curso de Bacharel em Ciência e Tecnologia, Ilum - Escola de Ciências.
+
+  Com o auxílio dos colaboradores:
+  - Daniel Bravin Martins, email: daniel23020@ilum.cnpem.br
+  - Diogo Pereira de Lima Carvalho, email: diogo23039@ilum.cnpem.br
+
+O projeto passou pela orientação do pesquisador/doutor:
+  - Amauri Jardim de Paula. Email: amauri.paula@ilum.cnpem.br
+    Professor pesquisador da Ilum Escola de Ciências.
+
+## Agradecimentos:
+Agradecemos pela oportunidade e pelo suporte dos pesquisadores citados acima. Também agradecemos  agradecemos a todos aqueles que de alguma forma ajudaram na concepção de desse projeto.
+
+---
