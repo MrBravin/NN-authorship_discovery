@@ -80,7 +80,7 @@ As funções utilizadas para qualquer manipulação de dados dentro desse diret�
     Aluno do 6° Semestre do Curso de Bacharel em Ciência e Tecnologia, Ilum - Escola de Ciências.
   
   - João Pedro da Silva Mariano, email: joao23009@ilum.cnpem.br.  
-    Aluna do 6° Semestre do Curso de Bacharel em Ciência e Tecnologia, Ilum - Escola de Ciências.
+    Aluno do 6° Semestre do Curso de Bacharel em Ciência e Tecnologia, Ilum - Escola de Ciências.
 
   Com o auxílio dos colaboradores:
   - Daniel Bravin Martins, email: daniel23020@ilum.cnpem.br
