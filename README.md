@@ -91,6 +91,6 @@ O projeto passou pela orientação do pesquisador/doutor:
     Professor pesquisador da Ilum Escola de Ciências.
 
 ## Agradecimentos:
-Agradecemos pela oportunidade e pelo suporte dos pesquisadores citados acima. Também agradecemos  agradecemos a todos aqueles que de alguma forma ajudaram na concepção de desse projeto.
+Agradecemos pela oportunidade e pelo suporte dos pesquisadores citados acima. Também agradecemos a todos aqueles que de alguma forma ajudaram na concepção de desse projeto.
 
 ---
